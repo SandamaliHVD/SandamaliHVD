@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandamaliHVD
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ASP.NET C# APIs
+- 🌱 I’m currently learning ASP.NET C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
